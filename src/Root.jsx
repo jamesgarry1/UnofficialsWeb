@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import React, { useState } from 'react'
 
 function App() {
+  const discord = "https://discord.gg/y3pdKB672x"
   return (
     <body>
     <div class="topnav">
@@ -25,11 +26,26 @@ function App() {
        <center>
        <h1>Welcome to unofficials</h1>
        <i>"We create roblox games."</i>
-       </center>
+        </center>
       &nbsp;
       &nbsp;
       &nbsp;
       &nbsp; 
+        <div class="buttons">
+      <a href="https://discord.gg/y3pdKB672x">
+      <center><button class="button1">Join our discord!</button></center></a>
+        </div>
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
       &nbsp;
       &nbsp;
       &nbsp;
